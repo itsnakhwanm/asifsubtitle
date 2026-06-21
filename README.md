@@ -44,7 +44,7 @@ pip install git+https://github.com/itsnakhwanm/asifsubtitle
 
 # TODO/Tasks
 
-Read [TODO.md](TODO.md) for more information.
+~Read TODO.md for more information.~ Oops, TBD!
 
 > [!NOTE]
 > 
