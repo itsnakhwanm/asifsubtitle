@@ -57,7 +57,7 @@ Read [TODO.md](TODO.md) for more information.
 
 # License, Copyright, & Disclaimer
 
-Copyright (C) 2026 Nakhwan Maulana.
+Copyright (c) 2026 Nakhwan Maulana.
 
 ASIF Subtitle is licensed under the Apache License 2.0.
 
