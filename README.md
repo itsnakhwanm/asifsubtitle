@@ -57,7 +57,7 @@ pip install git+https://github.com/itsnakhwanm/asifsubtitle
 
 # License, Copyright, & Disclaimer
 
-Copyright (c) 2026 Nakhwan Maulana.
+Copyright &copy; 2026 Nakhwan Maulana.
 
 ASIF Subtitle is licensed under the Apache License 2.0.
 
