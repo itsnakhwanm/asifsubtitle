@@ -1,0 +1,34 @@
+# Fixing Single-word Captions or *Sloptitles*
+
+*Sloptitles* mean poorly AI-generated subtitles.
+
+Single-word captions can be a feature in *sloptitles* and come up as issues in accessibility. That is because the captions break logical flow, and those can affect your mental health, how you read texts, and the worst, those can damage everything, including your brand, eyes, and brain. 
+
+Fixing single-word captions is crucial for balancing readability and engagement. Here are ways to fix single-word captions:
+
+A. For a short single-word caption (you may find max words instead of max characters):
+
+1. Select the single-word caption.
+2. Check any punctuation at the end of word on the previous caption. If there is any punctuation, you need not fix it.
+3. Merge the previous caption and the current caption if you found no puncuation at the end of word on the previous caption.
+
+B. For a long single-word caption (e.g. *transformation*):
+
+1. Select the single-word caption (as before).
+2. Check any punctuation at the end of word on the previous caption. **You must ensure no punctuation at the end of word on the previous caption!**
+3. Since the current caption has a long word, take at least a word or a few words at the end of the previous caption. You can use Ctrl-X (or Cmd-X on MacOS) or right click the texts, then click "Cut".
+4. Move the words to the first of the current caption. You can use Ctrl-V (or Cmd-V on MacOS) or right click at the top-left in text dialog, then click "Paste".
+
+C. For a single-word caption that does not have any punctuation:
+
+-  You can either choose the option A or the option B.
+
+That's how to fix single-word caption!
+
+Fixing single-word caption is a feature that other caption editors don't have. So, that's why there is ASIF Subtitle, and it's there to fix improper single-word captions.
+
+You can indeed use ASIF Subtitle to check if there are improper single-word captions. This improper single-word caption detection is featured in ASIF Subtitle, so you need not check them one by one, just search which matches.
+
+For further information, please reach out to professional or expert about captioning.
+
+If you think there is a bug in ASIF Subtitle, you can report bug [here](../CONTRIBUTING.md#reporting-a-bug).
