@@ -1,6 +1,6 @@
 # 📄✨ ASIF Subtitle: Advanced Subtitle Improvements and Fixes
 
-*<center>As if the word would never resolve...</center>*
+*As if the word would never resolve.. And a word should not be thrown away.*
 
 > [!CAUTION]
 >
