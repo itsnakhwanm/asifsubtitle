@@ -14,7 +14,7 @@ We strive to protect this project from any generative AI use (including LLM and 
    It **does NOT mean** someone can still use **generative AI for contribution carelessly.**
 4. Rules for using generative AI for contribution:
    - Contributor must neither copy-paste AI-generated content nor use the exact same result as AI-generated content.
-   - Contributor must proofread for errors in contribution caused by generative AI, so the result must be in human intervention.
+   - Contributor must proofread for errors caused by generative AI, so the result must be in human intervention.
 5. If someone still uses the AI-generated content for contribution, it will cause:
    - Pull request rejection
    - Closed AI-generated issues
