@@ -22,8 +22,3 @@ We strive to protect this project from any generative AI use (including LLM and 
 If you want to report a bug, you can open an issue [here](https://github.com/itsnakhwanm/asifsubtitle/issues).
 
 There's no shame in opening an issue. You should check if there's an existing issue before opening a similar issue. If you open issue that may be similar, our team's here to redirect you to the exact issue and your issue will be closed.
-
-
-
-
-
