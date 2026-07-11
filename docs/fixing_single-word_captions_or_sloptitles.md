@@ -29,6 +29,6 @@ Fixing single-word caption is a feature that other caption editors don't have. S
 
 You can indeed use ASIF Subtitle to check if there are improper single-word captions. This improper single-word caption detection is featured in ASIF Subtitle, so you need not check them one by one, just search which matches.
 
-For further information, please reach out to professional or expert about captioning.
+For further information about captioning, please reach out to professional or expert.
 
 If you think there is a bug in ASIF Subtitle, you can report bug [here](../CONTRIBUTING.md#reporting-a-bug).
