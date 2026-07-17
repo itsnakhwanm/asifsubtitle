@@ -25,10 +25,10 @@ C. For a single-word caption that does not have any punctuation:
 
 That's how to fix single-word caption!
 
-~Fixing single-word caption is a feature that other caption editors don't have. So, that's why there is ASIF Subtitle, and it's there to fix improper single-word captions.
+~Fixing single-word caption is a feature that other caption editors don't have. So, that's why there is ASIF Subtitle, and it's there to fix improper single-word captions.~
 
-You can indeed use ASIF Subtitle to check if there are improper single-word captions. This improper single-word caption detection is featured in ASIF Subtitle, so you need not check them one by one, just search which matches.
+~You can indeed use ASIF Subtitle to check if there are improper single-word captions. This improper single-word caption detection is featured in ASIF Subtitle, so you need not check them one by one, just search which matches.~
 
-For further information about captioning, please reach out to professional or expert.~
+~For further information about captioning, please reach out to professional or expert.~
 
 If you think there is a bug in ASIF Subtitle, you can report bug [here](../CONTRIBUTING.md#reporting-a-bug).
