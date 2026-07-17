@@ -10,7 +10,7 @@ A. For a short single-word caption (you may find max words instead of max charac
 
 1. Select the single-word caption.
 2. Check any punctuation at the end of the word on the previous caption. If there is any punctuation, you need not fix it.
-3. Merge the previous caption and the current caption if you found no puncuation at the end of word on the previous caption. You can use Ctrl-A (or Cmd-A on Mac) on the current caption, then Ctrl-X (or Cmd-X on Mac) to the previous caption. Or you can right click the current caption then click "Select All", right click again the selected text then click "Cut", right click on the previous caption, finally click "Paste".
+3. Merge the previous caption and the current caption by clicking "Merge" if you found no puncuation at the end of word on the previous caption. You can use Ctrl-A (or Cmd-A on Mac) on the current caption, then Ctrl-X (or Cmd-X on Mac) to the previous caption. Or you can right click the current caption then click "Select All", right click again the selected text then click "Cut", right click on the previous caption, finally click "Paste".
 
 B. For a long single-word caption (e.g. *transformation*):
 
