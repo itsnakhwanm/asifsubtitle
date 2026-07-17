@@ -15,8 +15,8 @@ A. For a short single-word caption (you may find max words instead of max charac
 B. For a long single-word caption (e.g. *transformation*):
 
 1. Select the single-word caption (as before).
-2. Check any punctuation at the end of the word on the previous caption. **You must ensure there is NO punctuation at the end of the word on the previous caption!**
-3. Since the current caption has a long word, take at least a word or a few words at the end of the previous caption. You can use Ctrl-X (or Cmd-X on Mac) or right click the texts, then click "Cut".
+2. Check any punctuation at the end of the word on the previous caption. **You MUST ensure that there is NO punctuation at the end of the word on the previous caption!**
+3. Since the current caption has a long word, you MUST take at least a word or a few words at the end of the previous caption. You can use Ctrl-X (or Cmd-X on Mac) or right click the texts, then click "Cut".
 4. Move the words to the first of the current caption. You can use Ctrl-V (or Cmd-V on Mac) or right click at the top-left in text dialog, then click "Paste".
 
 C. For a single-word caption that does not have any punctuation:
