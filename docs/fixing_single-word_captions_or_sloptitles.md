@@ -9,7 +9,7 @@ Fixing single-word captions is crucial for balancing readability and engagement.
 A. For a short single-word caption (you may find max words instead of max characters):
 
 1. Select the single-word caption.
-2. Check any punctuation at the end of the word on the previous caption. If there is any punctuation, you need not fix it.
+2. Check any punctuation at the end of the word on the previous caption.<br>If there is any punctuation, you need not fix it.
 3. Merge the previous caption and the current caption by clicking "Merge" in between the previous caption and the current caption if you found no puncuation at the end of word on the previous caption.<br>You can use Ctrl-A (or Cmd-A on Mac) on the current caption, then use Ctrl-X (or Cmd-X on Mac), finally use Ctrl-V (or Cmd-V on Mac) on the previous caption. Or you can right click the current caption then click "Select All", right click again the selected text then click "Cut", right click on the previous caption, finally click "Paste".
 
 B. For a long single-word caption (e.g. *transformation*):
