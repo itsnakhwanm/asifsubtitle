@@ -10,14 +10,14 @@ A. For a short single-word caption (you may find max words instead of max charac
 
 1. Select the single-word caption.
 2. Check any punctuation at the end of the word on the previous caption. If there is any punctuation, you need not fix it.
-3. Merge the previous caption and the current caption by clicking "Merge" in between the previous caption and the current caption if you found no puncuation at the end of word on the previous caption. You can use Ctrl-A (or Cmd-A on Mac) on the current caption, then use Ctrl-X (or Cmd-X on Mac), finally use Ctrl-V (or Cmd-V on Mac) on the previous caption. Or you can right click the current caption then click "Select All", right click again the selected text then click "Cut", right click on the previous caption, finally click "Paste".
+3. Merge the previous caption and the current caption by clicking "Merge" in between the previous caption and the current caption if you found no puncuation at the end of word on the previous caption.<br>You can use Ctrl-A (or Cmd-A on Mac) on the current caption, then use Ctrl-X (or Cmd-X on Mac), finally use Ctrl-V (or Cmd-V on Mac) on the previous caption. Or you can right click the current caption then click "Select All", right click again the selected text then click "Cut", right click on the previous caption, finally click "Paste".
 
 B. For a long single-word caption (e.g. *transformation*):
 
 1. Select the single-word caption (as before).
 2. Check any punctuation at the end of the word on the previous caption. **You MUST ensure that there is NO punctuation at the end of the word on the previous caption!**
-3. Since the current caption has a long word, you MUST take at least a word or a few words at the end of the previous caption. You can use Ctrl-X (or Cmd-X on Mac) or right click the texts, then click "Cut".
-4. Move the words to the first of the current caption. You can use Ctrl-V (or Cmd-V on Mac) or right click at the top-left in text dialog, then click "Paste".
+3. Since the current caption has a long word, you MUST take at least a word or a few words at the end of the previous caption.<br>You can use Ctrl-X (or Cmd-X on Mac) or right click the texts, then click "Cut".
+4. Move the words to the first of the current caption.<br>You can use Ctrl-V (or Cmd-V on Mac) or right click at the top-left in text dialog, then click "Paste".
 
 C. For a single-word caption that does not have any punctuation:
 
