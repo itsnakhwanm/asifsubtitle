@@ -6,7 +6,7 @@ As if the word would never resolve&hellip;&trade;
 >
 > This repository is publicly available. However, it is a work in progress and not yet ready. Please do not use it before it is ready to use.
 
-ASIF Subtitle (or ASIF, stands for Adanced Subtitle Improvements and Fixes) is a tool to create readable and accessible captions and fix captions. It can also split transcription or captions into words without sacrificing readability and creating single-word captions.
+ASIF Subtitle (or ASIF, stands for Advanced Subtitle Improvements and Fixes) is a tool to create readable and accessible captions and fix captions. It can also split transcription or captions into words without sacrificing readability and creating single-word captions.
 
 It aims to:
 
