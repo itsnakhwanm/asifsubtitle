@@ -14,7 +14,8 @@ It aims to:
 - Completely reduce and even eliminate single-word captions
 - Fix *sloptitles*[^1] or *autocraptions*[^2]
 - Implement a better splitting
-- Make a better alternative to the *freaking* single-word caption or Hormozi-style caption generator
+- Make a better alternative to the *freaking* single-word caption generator
+- Create a readable version of Hormozi-style caption
 - Create a readable caption for a vertical video (It's not impossible to balance between aesthetic and readability)
 - and so on
 
