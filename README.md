@@ -19,9 +19,6 @@ It aims to:
 - Create a readable caption for a vertical video (It's not impossible to balance between aesthetic and readability)
 - and so on
 
-[^1]: poorly AI-generated subtitles, Nakhwan Maulana's term, its project creator
-[^2]: poorly auto-generated captions, coined by Meryl Evans
-
 > [!NOTE]
 > 
 > Those caption results may be imperfect. Please edit those to fix more problems.
@@ -63,3 +60,6 @@ Copyright &copy; 2026 Nakhwan Maulana.
 ASIF Subtitle is licensed under the Apache License 2.0.
 
 **DISCLAIMER: ASIF Subtitle is an independent project by Nakhwan Maulana. ASIF Subtitle is NOT affiliated with, endorsed by, or connected to The Apache Software Foundation (ASF).**
+
+[^1]: poorly AI-generated subtitles, Nakhwan Maulana's term, its project creator
+[^2]: poorly auto-generated captions, coined by Meryl Evans
